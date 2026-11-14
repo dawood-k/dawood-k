@@ -1,13 +1,15 @@
-# Dawood Khan
+# Hi, I'm Dawood 👋
 
-Electronics and antenna engineer finishing an MSc by research at Mid Sweden University. Also an AI agent enthusiast: I use agents every day in engineering and knowledge work, and build small tools to learn where they are useful.
+⚡ **Electronics engineer** | 🤖 **Building with AI agents**
 
-**What I'm working on**
-- **MSc thesis:** self-decoupling in compact square patch MIMO arrays, simulated in ANSYS HFSS.
-- **HFSS simulation agent:** AI agents that run and check the simulations for my thesis.
-- **Personal OS:** a Git-tracked knowledge base that my agents read and update, so context carries across sessions and tools.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ANSYS HFSS](https://img.shields.io/badge/-ANSYS%20HFSS-FFB71B?style=flat-square&logoColor=black)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
-**Public project**
-- [notion-cli](https://github.com/dawood-k/notion-cli): lets Claude read and write Notion with a single bash command instead of running an MCP server.
+## Projects
 
-[LinkedIn](https://linkedin.com/in/dawoodkhan0)
+- 📡 **HFSS agent** (private) - AI that runs my antenna simulations
+- 🧠 **Personal OS** (private) - long-term memory for my agents
+- 🗒️ **[notion-cli](https://github.com/dawood-k/notion-cli)** - Notion for Claude in one bash command
+
+💼 [LinkedIn](https://linkedin.com/in/dawoodkhan0)
